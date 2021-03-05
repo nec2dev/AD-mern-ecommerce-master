@@ -360,8 +360,9 @@ textarea {
     color: #000;
     padding: 0.2em 0;
 }
-
 /*---------------Reset css ends-------------------*/
+
+
 
 /*---------------style.css starts-------------------*/
 html {
@@ -388,7 +389,7 @@ body {
 }
 header {
   grid-area: header;
-  background-color: #203040;
+  background-color: #383838;
 }
 main {
   grid-area: main;
@@ -396,7 +397,7 @@ main {
 }
 footer {
   grid-area: footer;
-  background-color: #203040;
+  background-color: #34373b;
   color: #ffffff;
 }
 
@@ -415,7 +416,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #ff8000;
+  color: #06121a;
 }
 /* Header */
 header a {
@@ -463,6 +464,6 @@ img.medium {
 }
 /* Rating */
 .rating span {
-  color: #f0c040;
+  color: #8b836a;
   margin: 0.1rem;
 }
