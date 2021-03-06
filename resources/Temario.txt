@@ -1,9 +1,9 @@
 Introduction
-Part 01- What is this course  
-Part 02- Install Tools  
-Part 03- Design Website Template  
-Part 04- Display Products  
-Part 05- Create React App  
++Part 01- What is this course  
++Part 02- Install Tools  
++Part 03- Design Website Template  
++Part 04- Display Products  
++Part 05- Create React App  
 Part 06- Share Code On Github  
 Part 07- Create Rating and Product Component  
 Part 08- Build Product Screen  
