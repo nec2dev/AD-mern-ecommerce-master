@@ -44,7 +44,7 @@ const data = {
       price: 78,
       countInStock: 15,
       brand: 'Cif',
-      rating: 3,
+      rating: 2,
       numReviews: 14,
       description: 'high quality product',
     },
