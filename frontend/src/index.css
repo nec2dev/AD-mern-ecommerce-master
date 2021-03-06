@@ -470,8 +470,13 @@ img.medium {
   font-size: 2rem;
 }
 /* Rating */
-.rating span {
-  color: #8b836a;
+.rating span{
+  color: #ffd900;
+  margin: 0.1rem;
+}
+
+.rating span:last-child {
+  color: #444444;
   margin: 0.1rem;
 }
 
